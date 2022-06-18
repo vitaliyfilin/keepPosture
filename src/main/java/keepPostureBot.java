@@ -43,11 +43,11 @@ public class keepPostureBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "keepposture_bot";
+        return "";
     }
 
     @Override
     public String getBotToken() {
-        return "5334620803:AAHIJVVhey1i-HX5ODS3F9qFRFG_w3C_Scc";
+        return "";
     }
 }
